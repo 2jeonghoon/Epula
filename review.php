@@ -15,6 +15,24 @@
 		     height:300px;
                      overflow: hidden;
                      margin: 0 auto;
+		   }
+		   #reviewscore{
+		     display: inline-block;
+                     position: relative;
+                     left: 560px;
+                     bottom: 135px;
+                   }
+		   #reviewdata{
+		     display: inline-block;
+                     position: relative;
+                     bottom: 100px;
+		     right: 430px;
+                     text-align: left;
+                   }
+                   #reviewuser{
+		     display: inline-block;
+                     position: relative;
+                     right: 630px;
                    }
 		</style>
 		<title>Epula v0.1 - 리뷰</title>
@@ -39,7 +57,7 @@
 	   </div>
          </section>
               <section>
-               <div id="storebox">
+               <div id="storebox" style="height:900px margin-top:0px;">
                <?php
 	       // MySQL 드라이버 연결
 	       include './SQLconstants.php';
@@ -53,8 +71,7 @@
 	       $query = "select * from Restaurants where restaurant_id = ".$r_id."";
 	       $result = mysqli_query($conn, $query);
 	       while($row = mysqli_fetch_array($result)){
-	           echo "<BR><BR>";
-	           echo "<BR><div id='imgbox'><img src = '".$row['picture']."'style='width:100%;height:100%;object-fit:cover;'></div><hr>";
+	           echo "<div id='imgbox'><img src = '".$row['picture']."'style='width:100%;height:100%;object-fit:cover;'></div>";
 	           echo "<BR><div style='position: relative; text-align: left; left:100px;font-size:30px;'> ID : ".$row['restaurant_id'];
 	           echo "<BR><span id='storetext'>식당 이름 : ".$row['name']."</span>";
 	           echo "<BR> <span id='storetext'>메뉴 : ".$row['menu']."</span>";
@@ -91,13 +108,13 @@
 	       while($row = mysqli_fetch_array($result)){
 		   echo "<BR><BR>";
                    echo "<div id='reviewuser'><img src='https://cdn-icons-png.flaticon.com/512/6522/6522516.png' style='width:100px'>";
-	           echo "<BR> 유저 이름 : ".$row['user_id']."</div>";
-	           echo "<BR><div id='reviewdata'> 날짜 : ".$row['upload_date'];
-		   echo "<BR> 리뷰 내용 : ".$row['content']."</div>";
+	           echo "<BR>".$row['user_id']."</div>";
+	           echo "<BR><div id='reviewdata'>".$row['upload_date'];
+		   echo "<BR>".$row['content']."</div>";
 	           echo "<BR><div id='reviewscore'>점수 : ".$row['score'];
 	           echo "<BR> 좋아요 : ".$row['likes'];
 	           echo "<BR> 싫어요 : ".$row['dislikes']."</div>";
-		   echo "<BR><BR>";
+		   echo "<BR>";
 		   echo "<hr>";
 	       }
 	   
