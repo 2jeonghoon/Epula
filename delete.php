@@ -1,7 +1,14 @@
 <?php
     header('Content_Type: text/html; charset=UTF-8');
-    include 'WriteLog.php';
+	include 'WriteLog.php';
+	// MySQL 드라이버 연결
+       include './SQLconstants.php';
+       $conn = mysqli_connect($mySQL_host, $mySQL_id, $mySQL_password, $mySQL_database) or die ("Cannot access DB");
+	   
     session_start();
+
+
+
     log_write(session_id(), "제거 화면 접속");
 ?>
 <html>
@@ -46,7 +53,7 @@
              <ul class="mydata"> 
                <li><a href="add.php">맛집 추가</a></li>
                <li><a href="delete.php">맛집 삭제</a></li>
-               <li><a href="login.php">내정보</a></li>
+               <li><a href="login.php">내 정보</a></li>
              </ul>
 	  </nav>
 
@@ -65,7 +72,8 @@
 
 			삭제할 식당 이름 : <input type="text" id = "name" name = "name" size="60">
                         <br>
-			삭제할 식당 ID : <input type = "text" id = "id" name = "id" size="60">
+			삭제할 식당 ID : <input type = "text" id = "id" name = "id" size="60" required>
+			<br>삭제하려는 이유: <input type = "text" name = "text" size = "60" required>
 		</form>
 		&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
@@ -131,15 +139,38 @@
 				   }
 			}
 		</script>
+		<section>
+		<div id="adminbox">
+<?php
+	if($_SESSION['isAdmin'] == true) {
+		$query = "select * from RestaurantsToDelete";
+		$result = mysqli_query($conn, $query);
+		while($row = mysqli_fetch_array($result)){
+			echo "<BR> Restaurant ID : ".$row['restaurant_id'];
+			$query = "SELECT name FROM Restaurants WHERE restaurant_id = ".$row['restaurant_id'];
+			$result2 = mysqli_query($conn, $query);
+			$row2 = mysqli_fetch_assoc($result2);
+			echo "<BR> Restaurant Name : ".$row2['name'];
+			echo "<BR> 삭제하려는 이유 : ".$row['text'];
+			echo '
+			<form action="deleteSQL.php" method="POST">
+				<input type="hidden" name="delete_restaurant" value="'.$row['restaurant_id'].'">
+				<input type="submit" value="Allow">
+			</form>
+			<form action="deleteSQL.php" method="POST">
+				<input type="hidden" name="delete_request" value="'.$row['restaurant_id'].'">
+				<input type="submit" value="Deny">';
+			echo "<BR><BR>";
+		}
+	}
 
+?>    
+		</div>
+		</section>
               <section>
                <div id="storebox">
                <?php
-	       // MySQL 드라이버 연결
-	       include './SQLconstants.php';
-	       $conn = mysqli_connect($mySQL_host, $mySQL_id, $mySQL_password, $mySQL_database) or die ("Cannot access DB");
-	   
-	       // 전달 받은 메시지 확인
+	      	       // 전달 받은 메시지 확인
 	       $message = $_POST['message'];
 	       $message = ( ( ( $message == null) || ( $message == "" ) ) ? "_%" : $message );
 	   
