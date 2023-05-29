@@ -1,6 +1,9 @@
 <?php
 	header('Content_Type: text/html; charset=UTF-8');
 	include 'WriteLog.php';
+	include './SQLconstants.php';
+	// MySQL 드라이버 연결
+	$conn = mysqli_connect($mySQL_host, $mySQL_id, $mySQL_password, $mySQL_database) or die ("Cannot access DB");
 	session_start();
 	$session_id = $_SESSION['session_id'];
 	if($session_id == NULL) {
@@ -84,9 +87,6 @@
 			<br>
 		</div>
            <?php
-	   // MySQL 드라이버 연결
-	   include './SQLconstants.php';
-	   $conn = mysqli_connect($mySQL_host, $mySQL_id, $mySQL_password, $mySQL_database) or die ("Cannot access DB");
 	   
 	   // 전달 받은 메시지 확인
 	   $message = $_POST['message'];
@@ -116,10 +116,13 @@
 	       }
 	       /*div가 눌렸을 때 페이지가 바뀌고 식당 세부정보, 리뷰들이 나와야 함 */
 	       /*일단 눌렸을 때 나오는 페이지 구현하고 리뷰 등록하는 페이지 구현해야 함*/
-               echo "<div id='store' style ='display: inline-block'><BR><BR>";
-	       echo "<BR><img src = '".$row['picture']."' height='280' width='180'>";
+           echo "<div id='store' style ='display: inline-block'><BR><BR>";
+           echo "<form action='./review.php' method='post'>";
+           echo "<input type='hidden' name='restaurant_id' value='".$row['restaurant_id']."'";
+           echo "<input type='hidden' name='restaurant_name' value='".$row['name']."'";
+	       echo "<BR><input type='image' src = '".$row['picture']."' height='280' width='180'>";
 	       /*	       echo "<BR> ID : ".$row['restaurant_id']; */
-	       echo "<BR>".$row['name'];
+	       echo "<BR>".$row['name']."<BR>";
 	       $review_sum = 0;	// 리뷰 합계
 	       $review_cnt = 0;	// 리뷰 개수
 	       $review_score_query = "select score from Reviews WHERE restaurant_id = ".$row['restaurant_id'];
@@ -130,7 +133,7 @@
 		     $review_cnt++;
 	       }
 	       $review_avg = $review_sum / $review_cnt;
-	       echo "   별점".$review_avg;
+	       echo "별점 &nbsp &nbsp".$review_avg." 점";
 	       /* echo "<BR> 메뉴 : ".$row['menu'];*/
 	       /* echo "<BR> 주소 : ".$row['address'];*/
 	       /* echo "<BR> 전화번호 : ".$row['phone'];*/
@@ -138,6 +141,7 @@
 	       /*echo "<BR> 배달 : ".$row['delivery'];*/
 	       /*echo "<BR> 포장 : ".$row['take_out'];*/
 	       echo "<BR> 태그 : ".$row['tag'];
+	       echo "</form>";
 	       echo "<BR><BR></div>";
 	       $cnt++;
 
