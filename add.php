@@ -41,7 +41,7 @@
              <ul class="mydata">
                 <li><a href="add.php">맛집 추가</a></li>
                 <li><a href="delete.php">맛집 삭제</a></li>     
-                <li><a href="login.php">내정보</a></li>
+                <li><a href="login.php">내 정보</a></li>
              </ul>
 	  </nav>
 
