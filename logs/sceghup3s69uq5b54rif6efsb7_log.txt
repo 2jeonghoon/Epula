@@ -1,0 +1,109 @@
+
+Time: 2023-05-30 03:48:38 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:48:38 Here: review.php Message : dookong5post 성공했겠지...?
+Time: 2023-05-30 03:48:38 Here: review.php Message : wdk59post 성공했겠지...?
+Time: 2023-05-30 03:48:38 Here: review.php Message : dookong5post 성공했겠지...?
+Time: 2023-05-30 03:48:40 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:48:40 Here: userInfo.php Message : 받아온 유저 아이디: dookong5
+Time: 2023-05-30 03:48:55 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:29 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:31 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:31 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:32 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:33 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:34 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:34 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:18:43 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:18:48 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:36:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:36:16 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:36:16 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:36:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:20 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:26 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:28 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:37:31 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:35 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:37:35 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:37:35 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:37:35 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:37:41 Here: signup.php Message : 
+Time: 2023-05-30 04:37:59 Here: signup.php Message : id: test1 pw: 암호화 name: 김우진 age: 24 gender: 남자 favorite: korean
+Time: 2023-05-30 04:38:06 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:06 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:09 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:10 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:10 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:38:10 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:38:10 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:38:17 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:24 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:24 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:38:24 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:38:24 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:38:34 Here: reviewSQL.php Message : review id: '14' user_id: 'test1' r_id: '18769619' score: '4' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:38:34 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:34 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:38:34 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:38:34 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:38:34 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:38:41 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:41 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:43 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:43 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:44 Here: myInfo.php Message : test1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:47 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:05 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:10 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:11 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:50:12 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:14 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:16 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:19 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:24 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:25 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:50:25 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:50:25 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:50:25 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:50:25 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:50:39 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:40 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:50:40 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:50:40 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:50:40 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:50:40 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:50:51 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:50:52 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:50:52 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:50:52 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:50:52 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:50:52 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:50:57 Here: signup.php Message : 
+Time: 2023-05-30 04:51:13 Here: signup.php Message : id: 하이요 pw: 암호화 name: 하이요 age: 22 gender: 남자 favorite: korean
+Time: 2023-05-30 04:51:16 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:51:16 Here: myInfo.php Message : 하이요: 회원 정보 조회 성공
+Time: 2023-05-30 04:51:18 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:51:19 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:51:19 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:51:19 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:51:19 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:51:19 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:51:28 Here: reviewSQL.php Message : review id: '18' user_id: '하이요' r_id: '18769619' score: '1' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:51:28 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:51:28 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:51:28 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:51:28 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:51:28 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:51:28 Here: review.php Message : 하이요post 성공했겠지...?

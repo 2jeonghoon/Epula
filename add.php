@@ -7,7 +7,7 @@
 ?>
 <html>
 	<head>
-		<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=807aeebbd40af5de924249a4a806e30d&libraries=services"></script>
+		<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=cafa9f820b44317cbf315014d8afa64d&libraries=services"></script>
 		<style>
 			input {
   				
@@ -41,7 +41,7 @@
              <ul class="mydata">
                 <li><a href="add.php">맛집 추가</a></li>
                 <li><a href="delete.php">맛집 삭제</a></li>     
-                <li><a href="login.php">내정보</a></li>
+                <li><a href="login.php">내 정보</a></li>
              </ul>
 	  </nav>
 

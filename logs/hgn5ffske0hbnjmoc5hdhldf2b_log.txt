@@ -1,0 +1,43 @@
+
+Time: 2023-05-30 03:41:21 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:42:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:43:15 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:43:15 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:43:17 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:43:17 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:43:41 Here: reviewSQL.php Message : 리뷰를 등록하지 못했습니다.
+Time: 2023-05-30 03:43:41 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:43:41 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:43:47 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:44:00 Here: signup.php Message : 
+Time: 2023-05-30 03:44:09 Here: signup.php Message : 
+Time: 2023-05-30 03:44:26 Here: signup.php Message : id: 111 pw: 암호화 name: test age: 55 gender: 여자 favorite: asian
+Time: 2023-05-30 03:44:33 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:44:33 Here: myInfo.php Message : 111: 회원 정보 조회 성공
+Time: 2023-05-30 03:45:00 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:45:02 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:45:04 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:45:05 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:45:05 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:45:10 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:45:10 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:45:19 Here: reviewSQL.php Message : review id: '9' user_id: '111' r_id: '18769619' score: '4' 리뷰를 등록했습니다.
+Time: 2023-05-30 03:45:19 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:45:19 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:45:19 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:46:05 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:46:13 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:46:25 Here: deleteSQL.php Message : 식당 (19400255)삭제 요청에 성공하였습니다.
+Time: 2023-05-30 03:46:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:46:47 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:46:57 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:46:57 Here: myInfo.php Message : 111: 회원 정보 조회 성공
+Time: 2023-05-30 03:47:27 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:47:27 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:47:31 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:47:41 Here: deleteSQL.php Message : 식당 ()은 등록되지 않은 식당입니다.
+Time: 2023-05-30 03:47:41 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:47:46 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:47:46 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:48:09 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:48:45 Here: MapMain.php Message : 메인 화면 접속

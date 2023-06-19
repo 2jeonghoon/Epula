@@ -1,0 +1,180 @@
+
+Time: 2023-05-30 03:43:45 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:48:14 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:48:14 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:48:16 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:48:18 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:48:18 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:48:18 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:48:19 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:48:19 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:48:32 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:48:35 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:48:35 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:48:35 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:48:37 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:48:37 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:48:38 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:48:40 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:48:40 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 03:48:41 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:48:41 Here: userInfo.php Message : 받아온 유저 아이디: wjdgns
+Time: 2023-05-30 03:48:43 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:28 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:49:28 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:49:28 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:49:34 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:40 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:49:40 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:49:40 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:49:43 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:49:43 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:49:44 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:50:51 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:50:51 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:50:51 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:50:53 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:50:53 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:50:55 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:50:56 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:50:56 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:50:56 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:50:58 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:50:58 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:51:28 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:51:29 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:51:29 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:51:29 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:51:31 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 03:51:31 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 03:51:34 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:59:58 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:59:58 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:00:00 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:00:00 Here: userInfo.php Message : 받아온 유저 아이디: wjdgns
+Time: 2023-05-30 04:00:00 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:00:00 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:00:24 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:00:25 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:00:25 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:00:25 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:00:27 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:00:27 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 04:00:27 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:00:27 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:00:29 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:05:49 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:06:17 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:06:17 Here: myInfo.php Message : jhjh: 회원 정보 조회 성공
+Time: 2023-05-30 04:17:07 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:12 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:22 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:24 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:26 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:28 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:48 Here: signup.php Message : 
+Time: 2023-05-30 04:22:15 Here: signup.php Message : id: test063 pw: 암호화 name: test063 age: 22 gender: 남자 favorite: korean
+Time: 2023-05-30 04:22:23 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:22:23 Here: myInfo.php Message : test063: 회원 정보 조회 성공
+Time: 2023-05-30 04:22:28 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:22:34 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:22:34 Here: myInfo.php Message : test063: 회원 정보 조회 성공
+Time: 2023-05-30 04:22:35 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:22:41 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:22:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:23:06 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:06 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:23:06 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:23:06 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:23:28 Here: reviewSQL.php Message : review id: '12' user_id: 'test063' r_id: '18769619' score: '3' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:23:28 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:28 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:23:28 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:23:28 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:23:43 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:43 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:23:43 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:23:43 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:23:49 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:23:49 Here: myInfo.php Message : test063: 회원 정보 조회 성공
+Time: 2023-05-30 04:23:55 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:55 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:23:55 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:23:55 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:24:41 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:24:55 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:24:55 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:24:55 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:24:55 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:26:13 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:26:13 Here: myInfo.php Message : test063: 회원 정보 조회 성공
+Time: 2023-05-30 04:26:18 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:26:18 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:26:18 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:26:18 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:27:20 Here: reviewSQL.php Message : review id: '12' user_id: 'test063' r_id: '18769619' score: '4' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:27:20 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:27:20 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:27:20 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:27:20 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:28:15 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:28:17 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:17 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:28:21 Here: reviewSQL.php Message : review id: '12' user_id: 'test063' r_id: '19476681' score: '2' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:28:21 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:21 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:28:24 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:28:26 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:28:26 Here: myInfo.php Message : test063: 회원 정보 조회 성공
+Time: 2023-05-30 04:28:31 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:28:31 Here: myInfo.php Message : jhjh: 회원 정보 조회 성공
+Time: 2023-05-30 04:28:33 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:28:35 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:39 Here: reviewSQL.php Message : review id: '12' user_id: 'jhjh' r_id: '17609171' score: '2' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:28:39 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:44 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:28:46 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:28:53 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:28:53 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:29:00 Here: reviewSQL.php Message : review id: '12' user_id: 'jhjh' r_id: '19476681' score: '2' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:29:00 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:29:00 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:29:03 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:29:24 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:29:27 Here: reviewSQL.php Message : review id: '11' user_id: 'jhjh' r_id: '17609171' score: '2' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:29:27 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:29:27 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:29:44 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:29:45 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:29:45 Here: myInfo.php Message : jhjh: 회원 정보 조회 성공
+Time: 2023-05-30 04:35:53 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:36:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:36:54 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:22 Here: signup.php Message : 
+Time: 2023-05-30 04:37:47 Here: signup.php Message : id: qwe1 pw: 암호화 name: 김용혁 age: 25 gender: 남자 favorite: korean
+Time: 2023-05-30 04:37:51 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:37:51 Here: myInfo.php Message : qwe1: 회원 정보 조회 성공
+Time: 2023-05-30 04:37:54 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:56 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:59 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:12 Here: reviewSQL.php Message : review id: '12' user_id: 'qwe1' r_id: '682850263' score: '5' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:38:12 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:12 Here: review.php Message : qwe1post 성공했겠지...?
+Time: 2023-05-30 04:38:15 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:17 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:17 Here: myInfo.php Message : qwe1: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:29 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:38:29 Here: review.php Message : qwe1post 성공했겠지...?
+Time: 2023-05-30 04:38:29 Here: review.php Message : abcpost 성공했겠지...?
+Time: 2023-05-30 04:41:02 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:41:04 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:41:06 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:41:06 Here: review.php Message : qwe1post 성공했겠지...?
+Time: 2023-05-30 04:41:06 Here: review.php Message : abcpost 성공했겠지...?

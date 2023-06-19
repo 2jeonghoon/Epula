@@ -1,0 +1,234 @@
+
+Time: 2023-05-30 03:48:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:23 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:49:23 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:49:24 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:49:24 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:49:28 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:33 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 03:49:33 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 03:49:33 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 03:49:37 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:49:43 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:44 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:49:44 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:49:47 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:49:49 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:49:53 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 03:49:53 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 03:49:57 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:50:21 Here: deleteSQL.php Message : 식당 (27259453)삭제 요청에 성공하였습니다.
+Time: 2023-05-30 03:50:22 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:50:25 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:52:08 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 03:54:57 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 03:55:05 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:01:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:20 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:45 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:47 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:50 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:51 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:53 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:54 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:55 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:56 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:58 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:07:59 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:08:00 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:08:03 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:08:03 Here: myInfo.php Message : epulaadmin: 회원 정보 조회 성공
+Time: 2023-05-30 04:08:10 Here: signup.php Message : 
+Time: 2023-05-30 04:09:01 Here: signup.php Message : id: dnrns12 pw: 암호화 name: 김우형 age: 24 gender: 남자 favorite: korean
+Time: 2023-05-30 04:09:15 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:09:15 Here: myInfo.php Message : dnrns12: 회원 정보 조회 성공
+Time: 2023-05-30 04:09:21 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:09:31 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:09:31 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:09:31 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:10:00 Here: reviewSQL.php Message : review id: '10' user_id: 'dnrns12' r_id: '18769619' score: '2' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:10:00 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:10:01 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:10:01 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:10:01 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:10:48 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:10:48 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:10:48 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:10:48 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:12:32 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:12:44 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:12:52 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:13:13 Here: deleteSQL.php Message : 식당 (15735387)삭제 요청에 성공하였습니다.
+Time: 2023-05-30 04:13:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:13:37 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:13:37 Here: myInfo.php Message : dnrns12: 회원 정보 조회 성공
+Time: 2023-05-30 04:13:40 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:13:50 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:14:29 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:14:36 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:14:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:09 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:20 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:23 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:26 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:15:27 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:15:39 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:16:01 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:16:01 Here: myInfo.php Message : dnrns12: 회원 정보 조회 성공
+Time: 2023-05-30 04:16:04 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:51 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:20:56 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:02 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:21:02 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:21:27 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:32 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:36 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:39 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:21:46 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:21:59 Here: signup.php Message : 
+Time: 2023-05-30 04:22:15 Here: signup.php Message : id: kdg0711 pw: 암호화 name: 김동규 age: 24 gender: 남자 favorite: chicken
+Time: 2023-05-30 04:22:24 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:22:24 Here: myInfo.php Message : kdg0711: 회원 정보 조회 성공
+Time: 2023-05-30 04:23:06 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:23:15 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:36 Here: reviewSQL.php Message : review id: '12' user_id: 'kdg0711' r_id: '18899386' score: '3' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:23:37 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:23:57 Here: reviewSQL.php Message : review id: '12' user_id: 'kdg0711' r_id: '18899386' score: '4' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:23:57 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:24:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:24:18 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:24:18 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:24:18 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:24:28 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:24:30 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:24:41 Here: deleteSQL.php Message : 식당 (18899386)삭제 요청에 성공하였습니다.
+Time: 2023-05-30 04:24:41 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:26:00 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:26:00 Here: myInfo.php Message : kdg0711: 회원 정보 조회 성공
+Time: 2023-05-30 04:26:03 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:26:04 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:26:04 Here: review.php Message : wjdgnspost 성공했겠지...?
+Time: 2023-05-30 04:26:08 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:26:08 Here: userInfo.php Message : 받아온 유저 아이디: wjdgns
+Time: 2023-05-30 04:26:08 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:26:08 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:26:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:26:15 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:26:20 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:26:22 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:26:22 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:26:22 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:26:22 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:26:25 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:26:25 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 04:26:25 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:26:25 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:26:38 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:26:39 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:26:39 Here: myInfo.php Message : kdg0711: 회원 정보 조회 성공
+Time: 2023-05-30 04:29:09 Here: signup.php Message : 
+Time: 2023-05-30 04:29:26 Here: signup.php Message : id: Zzzz pw: 암호화 name: 진예준 age: 23 gender: 남자 favorite: korean
+Time: 2023-05-30 04:29:32 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:29:32 Here: myInfo.php Message : Zzzz: 회원 정보 조회 성공
+Time: 2023-05-30 04:29:54 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:31:25 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:32:08 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:37:06 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:37:06 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:37:06 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:37:06 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:37:12 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:37:12 Here: myInfo.php Message : Zzzz: 회원 정보 조회 성공
+Time: 2023-05-30 04:37:22 Here: signup.php Message : 
+Time: 2023-05-30 04:37:55 Here: signup.php Message : id: 이준엽 pw: 암호화 name: 이준엽 age: 5000 gender: 남자 favorite: korean
+Time: 2023-05-30 04:38:01 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:01 Here: myInfo.php Message : 이준엽: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:19 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:38:19 Here: myInfo.php Message : 이준엽: 회원 정보 조회 성공
+Time: 2023-05-30 04:38:21 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:38:31 Here: delete.php Message : 제거 화면 접속
+Time: 2023-05-30 04:38:53 Here: deleteSQL.php Message : 식당 (15735387)삭제에 실패하였습니다. 이미 요청이 등록된 식당이거나, 삭제시 이름이 아니고 ID를 입력해주세요.
+Time: 2023-05-30 04:38:53 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:39:38 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:39:47 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:40:08 Here: reviewSQL.php Message : review id: '15' user_id: '이준엽' r_id: '1363458082' score: '5' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:40:08 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:40:08 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:40:24 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:40:24 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:40:31 Here: reviewSQL.php Message : review id: '16' user_id: '이준엽' r_id: '1363458082' score: '5' 리뷰를 등록했습니다.
+Time: 2023-05-30 04:40:31 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:40:31 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:40:31 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:40:38 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:40:38 Here: userInfo.php Message : 받아온 유저 아이디: 이준엽
+Time: 2023-05-30 04:40:38 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:40:38 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:40:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:46:17 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:46:17 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:46:44 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:46:57 Here: myInfo.php Message : 내 정보 화면 접속
+Time: 2023-05-30 04:46:57 Here: myInfo.php Message : 이준엽: 회원 정보 조회 성공
+Time: 2023-05-30 04:47:08 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:10 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:47:10 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:47:10 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:47:10 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:47:10 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:47:18 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:47:18 Here: userInfo.php Message : 받아온 유저 아이디: jhjh
+Time: 2023-05-30 04:47:18 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:47:18 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:47:29 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:31 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:47:31 Here: review.php Message : jhjhpost 성공했겠지...?
+Time: 2023-05-30 04:47:31 Here: review.php Message : 111post 성공했겠지...?
+Time: 2023-05-30 04:47:31 Here: review.php Message : dnrns12post 성공했겠지...?
+Time: 2023-05-30 04:47:31 Here: review.php Message : test1post 성공했겠지...?
+Time: 2023-05-30 04:47:33 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:47:33 Here: userInfo.php Message : 받아온 유저 아이디: test1
+Time: 2023-05-30 04:47:33 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:47:33 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:47:37 Here: userInfo.php Message : 사용자(타인) 정보 화면 접속
+Time: 2023-05-30 04:47:37 Here: userInfo.php Message : 받아온 유저 아이디: test1
+Time: 2023-05-30 04:47:37 Here: userInfo.php Message : 정보 조호
+Time: 2023-05-30 04:47:37 Here: userInfo.php Message : 회원 정보 조회 오류
+Time: 2023-05-30 04:47:39 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:45 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:48 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:49 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:50 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:51 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:52 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:52 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:54 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:57 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:47:59 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:48:02 Here: review.php Message : 리뷰 화면 접속
+Time: 2023-05-30 04:48:02 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:48:02 Here: review.php Message : 이준엽post 성공했겠지...?
+Time: 2023-05-30 04:48:22 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:48:24 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:52:00 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:52:01 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:53:58 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:53:59 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:01 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:02 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:03 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:04 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:05 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:06 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:08 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:09 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:10 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:11 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:12 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:13 Here: MapMain.php Message : 메인 화면 접속
+Time: 2023-05-30 04:54:14 Here: MapMain.php Message : 메인 화면 접속

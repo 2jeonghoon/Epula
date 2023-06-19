@@ -43,8 +43,8 @@
 			$isPwInvalid = true;
 		} else {
 			$encrypted_passwd = password_hash( $passwd, PASSWORD_DEFAULT);
-			$jb_sql_add_user = "INSERT INTO Users ( user_id, passwd, name, age, gender, favorite_food )
-			       			VALUES ( '$user_id', '$encrypted_passwd', '$name', '$age', '$gender', '$favorite' );";
+			$jb_sql_add_user = "INSERT INTO Users ( user_id, passwd, name, age, gender, favorite_food, gourmet_score, isAdmin )
+			       			VALUES ( '$user_id', '$encrypted_passwd', '$name', '$age', '$gender', '$favorite', '36', '0' );";
 			$result = mysqli_query( $jb_conn, $jb_sql_add_user );
 			$message = "id: ".$user_id." pw: 암호화 name: ".$name." age: ".$age." gender: ".$gender." favorite: ".$favorite."";
 			header( 'Location: login.php' );

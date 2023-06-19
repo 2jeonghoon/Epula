@@ -23,13 +23,13 @@
 	/* 이미 로그인한 경우 */
 	if($_SESSION['isLogin'] == true) {
 		/* 내 정보 화면으로 이동 */
-		header('Location: MapMain.php');
+		header('Location: myInfo.php');
 	
 	}
 
 	/* POST로 user_id를 받은 경우 */
 	if ( !is_null( $user_id ) ) {
-
+		$_SESSION['user_id'] = $user_id;
    		$conn = mysqli_connect( $mySQL_host, $mySQL_id, $mySQL_password, $mySQL_database ) or die("Can't access DB");
 		$stm = $conn->stmt_init();
 		$stmt = $conn->prepare("SELECT * FROM Users WHERE user_id = ?");
@@ -37,6 +37,9 @@
 		$stmt->execute();
 		$result = $stmt->get_result();
 		$db_passwd = null;
+		if (is_null($row['gourmet_score'])) {
+			log_write($_SESSION['session_id'], "[ ERROR ] 식객지수 미부여 ");
+		}
 		if($row = $result->fetch_assoc()) {
 			$db_passwd = $row['passwd'];
 			$_SESSION['name'] = $row['name'];
@@ -44,13 +47,16 @@
 			$_SESSION['gender'] = $row['gender'];
 			$_SESSION['favorite_food'] = $row['favorite_food'];
 			$_SESSION['gourmet_score'] = $row['gourmet_score'];
+			$_SESSION['isAdmin'] = $row['isAdmin'];
 		}
 		if(is_null($db_passwd)) {
 			$wu = 1;
 		} else {
+			$wu = 0;
 			if(password_verify($passwd, $db_passwd)) {
+				$wp = 0;
 				$_SESSION['isLogin'] = true;
-				header('Location: MapMain.php');
+				header('Location: myInfo.php');
 			} else {
 				$wp = 1;
 			}
@@ -85,7 +91,13 @@
 				border-radius: 8px;
 				padding: 10px 12px;
 				font-size: 14px;
-			} 
+			}
+			input[type=password]{
+	           font-family: 'default', sans-serif !important; 
+            }
+            input[type=password]::placeholder {
+	           font-family: '폰트'; 
+            }
                         section form input[type=text]{
                                 margin: 0px 0px 5px 0px;
                         }
@@ -104,13 +116,15 @@
 	<div id="loginbox">
 		<form action="login.php" method="POST">
 			<?php
+			// 아이디 틀림
                         if ( $wu == 1 ) {
-	                      echo "<span>사용자이름이 존재하지 않습니다.</span>";
-                        }
+				echo "<span>사용자이름이 존재하지 않습니다.</span>";
+			}
+			// 비밀번호 틀림
                         if ( $wp == 1 ) {
-	                      echo "<span>비밀번호가 틀렸습니다.</span>";
-                        }
-                        ?>
+				echo "<span>비밀번호가 틀렸습니다.</span>";
+			}
+			?>
                         <br>
                         <p><input type="text" name="user_id" placeholder="사용자이름" style="height: 40px; border-radius:30px;padding-left: 15px; font-size: 20px;"required></p>
 			<p><input type="password" name="passwd" placeholder="비밀번호" style="height: 40px; border-radius:30px;padding-left: 15px; font-size: 20px;"required></p>
@@ -125,3 +139,4 @@
 	</section>
 	</body>
 </html>
+

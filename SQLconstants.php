@@ -1,12 +1,12 @@
 <?php 
 	// MySQL ID : ex) teamA, teamB, teamC ...
-	$mySQL_id = "jhjh"; 	
+	$mySQL_id = "jeonghoon"; 	
 
 	// MySQL Password	
-	$mySQL_password = "1234";
+	$mySQL_password = "wjdgns011";
 
 	// MySQL Server 
-	$mySQL_host = "13.125.252.82";
+	$mySQL_host = "52.79.226.242";
 
 	// MySQL Database
 	$mySQL_database = "epula"; 
